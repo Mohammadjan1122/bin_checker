@@ -1,8 +1,7 @@
 # bin_checker
 Bin checker 
 # bin checker
-#all decrypt python and python3 script 
-# Mking dec  py 
+#all decrypt python and python3 script  
 # thise script free
 [![Author](https://img.shields.io/badge/Author-Mohammad_sultani-blue.svg?style=for-the-badge)](https://github.com/mohammadjan1122)
 [![Python](https://img.shields.io/badge/Code-Python-green.svg?style=flat-square)](#)
